@@ -1,0 +1,77 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "app自动化项目.scripts",
+    "children" : [ {
+      "name" : "test_broswer_goods",
+      "children" : [ {
+        "name" : "TestCase.test_1",
+        "uid" : "22e57b539035215b",
+        "parentUid" : "3930ef1a131524fe8e1cf9d9a264b642",
+        "status" : "passed",
+        "time" : {
+          "start" : 1564987677044,
+          "stop" : 1564987983211,
+          "duration" : 306167
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3930ef1a131524fe8e1cf9d9a264b642"
+    }, {
+      "name" : "test_buy_money_off",
+      "children" : [ {
+        "name" : "TestCase.test_buy",
+        "uid" : "5284eb9520fd79ef",
+        "parentUid" : "ee2b4cbf218dea6599f219b15619e929",
+        "status" : "passed",
+        "time" : {
+          "start" : 1564987983214,
+          "stop" : 1564988053816,
+          "duration" : 70602
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ee2b4cbf218dea6599f219b15619e929"
+    }, {
+      "name" : "test_buy_normal_good",
+      "children" : [ {
+        "name" : "TestCase.test_buy",
+        "uid" : "744d468c05279cd3",
+        "parentUid" : "2f170e29d45f9f9fde834e706328092e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1564988053830,
+          "stop" : 1564988130496,
+          "duration" : 76666
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2f170e29d45f9f9fde834e706328092e"
+    }, {
+      "name" : "test_comment",
+      "children" : [ {
+        "name" : "TestCase.test_comment",
+        "uid" : "23df67b58f45c77a",
+        "parentUid" : "ada0f157ae7eab87a25ca4a93f471f3e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1564988130511,
+          "stop" : 1564988184049,
+          "duration" : 53538
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ada0f157ae7eab87a25ca4a93f471f3e"
+    } ],
+    "uid" : "app自动化项目.scripts"
+  } ]
+}

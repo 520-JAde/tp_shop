@@ -1,0 +1,98 @@
+{
+  "uid" : "22e57b539035215b",
+  "name" : "TestCase.test_1",
+  "fullName" : "app自动化项目.scripts.test_broswer_goods.TestCase.test_1",
+  "historyId" : "455a320f14a3eb76b90dd51b535bba08",
+  "time" : {
+    "start" : 1564987677044,
+    "stop" : 1564987983211,
+    "duration" : 306167
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "浏览商品测试步骤",
+      "time" : {
+        "start" : 1564987685328,
+        "stop" : 1564987983211,
+        "duration" : 297883
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "29b3a4ffa6c5d3aa",
+        "name" : "点击商品促销分类",
+        "source" : "29b3a4ffa6c5d3aa.txt",
+        "type" : "text/plain",
+        "size" : 6
+      }, {
+        "uid" : "76d8ddeb8c9f0ef3",
+        "name" : "依次点击商品",
+        "source" : "76d8ddeb8c9f0ef3.txt",
+        "type" : "text/plain",
+        "size" : 6
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2,
+    "stepsCount" : 1,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "I87M244H3CMLOSQ"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "thread",
+    "value" : "5596-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "app自动化项目.scripts.test_broswer_goods"
+  }, {
+    "name" : "testClass",
+    "value" : "app自动化项目.scripts.test_broswer_goods"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestCase.test_1"
+  }, {
+    "name" : "package",
+    "value" : "app自动化项目.scripts.test_broswer_goods"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "22e57b539035215b.json",
+  "parameterValues" : [ ]
+}

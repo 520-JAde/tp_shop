@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Aug 05 14:53:03 CST 2019","Mon Aug 05 14:54:13 CST 2019","70602","","app自动化项目.scripts.test_buy_money_off","","app自动化项目.scripts.test_buy_money_off","TestCase.test_buy","TestCase.test_buy",""
+"passed","Mon Aug 05 14:55:30 CST 2019","Mon Aug 05 14:56:24 CST 2019","53538","","app自动化项目.scripts.test_comment","","app自动化项目.scripts.test_comment","TestCase.test_comment","TestCase.test_comment",""
+"passed","Mon Aug 05 14:47:57 CST 2019","Mon Aug 05 14:53:03 CST 2019","306167","","app自动化项目.scripts.test_broswer_goods","","app自动化项目.scripts.test_broswer_goods","TestCase.test_1","TestCase.test_1",""
+"passed","Mon Aug 05 14:54:13 CST 2019","Mon Aug 05 14:55:30 CST 2019","76666","","app自动化项目.scripts.test_buy_normal_good","","app自动化项目.scripts.test_buy_normal_good","TestCase.test_buy","TestCase.test_buy",""

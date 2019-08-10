@@ -1,0 +1,41 @@
+[ {
+  "uid" : "5284eb9520fd79ef",
+  "name" : "TestCase.test_buy",
+  "time" : {
+    "start" : 1564987983214,
+    "stop" : 1564988053816,
+    "duration" : 70602
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "23df67b58f45c77a",
+  "name" : "TestCase.test_comment",
+  "time" : {
+    "start" : 1564988130511,
+    "stop" : 1564988184049,
+    "duration" : 53538
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "22e57b539035215b",
+  "name" : "TestCase.test_1",
+  "time" : {
+    "start" : 1564987677044,
+    "stop" : 1564987983211,
+    "duration" : 306167
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "744d468c05279cd3",
+  "name" : "TestCase.test_buy",
+  "time" : {
+    "start" : 1564988053830,
+    "stop" : 1564988130496,
+    "duration" : 76666
+  },
+  "status" : "passed",
+  "severity" : "critical"
+} ]

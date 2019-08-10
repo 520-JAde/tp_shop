@@ -1,0 +1,188 @@
+{
+  "uid" : "744d468c05279cd3",
+  "name" : "TestCase.test_buy",
+  "fullName" : "app自动化项目.scripts.test_buy_normal_good.TestCase.test_buy",
+  "historyId" : "a4d36fad081b1177e54e87e3ff1f3d1b",
+  "time" : {
+    "start" : 1564988053830,
+    "stop" : 1564988130496,
+    "duration" : 76666
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "购买普通商品步骤",
+      "time" : {
+        "start" : 1564988060591,
+        "stop" : 1564988130495,
+        "duration" : 69904
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "58f9edd37f796efd",
+        "name" : "点击我的中心",
+        "source" : "58f9edd37f796efd.txt",
+        "type" : "text/plain",
+        "size" : 6
+      }, {
+        "uid" : "d1b0e03615778533",
+        "name" : "获取购买之前的余额",
+        "source" : "d1b0e03615778533.txt",
+        "type" : "text/plain",
+        "size" : 20
+      }, {
+        "uid" : "319dcf17719a8ef2",
+        "name" : "点击首页",
+        "source" : "319dcf17719a8ef2.txt",
+        "type" : "text/plain",
+        "size" : 6
+      }, {
+        "uid" : "c203dbc65cadddf",
+        "name" : "点击分类",
+        "source" : "c203dbc65cadddf.txt",
+        "type" : "text/plain",
+        "size" : 6
+      }, {
+        "uid" : "bc3692d2efe19507",
+        "name" : "点击二级分类",
+        "source" : "bc3692d2efe19507.txt",
+        "type" : "text/plain",
+        "size" : 6
+      }, {
+        "uid" : "b17b3a68a7918065",
+        "name" : "点击商品",
+        "source" : "b17b3a68a7918065.txt",
+        "type" : "text/plain",
+        "size" : 6
+      }, {
+        "uid" : "de9ebcc9431a3c13",
+        "name" : "该商品只能买一次",
+        "source" : "de9ebcc9431a3c13.txt",
+        "type" : "text/plain",
+        "size" : 15
+      }, {
+        "uid" : "389f5d75828c2f56",
+        "name" : "点击商品",
+        "source" : "389f5d75828c2f56.txt",
+        "type" : "text/plain",
+        "size" : 6
+      }, {
+        "uid" : "7475bcc46a33091c",
+        "name" : "获得商品名称",
+        "source" : "7475bcc46a33091c.txt",
+        "type" : "text/plain",
+        "size" : 148
+      }, {
+        "uid" : "e8e28469e2afa205",
+        "name" : "点击使用余额支付",
+        "source" : "e8e28469e2afa205.txt",
+        "type" : "text/plain",
+        "size" : 6
+      }, {
+        "uid" : "8ef4d6d4736d9e3d",
+        "name" : "获取打折后的价格",
+        "source" : "8ef4d6d4736d9e3d.txt",
+        "type" : "text/plain",
+        "size" : 16
+      }, {
+        "uid" : "aff8e8f1e74df679",
+        "name" : "点击提交",
+        "source" : "aff8e8f1e74df679.txt",
+        "type" : "text/plain",
+        "size" : 12
+      }, {
+        "uid" : "7c9175a57287ac59",
+        "name" : "输入密码",
+        "source" : "7c9175a57287ac59.txt",
+        "type" : "text/plain",
+        "size" : 12
+      }, {
+        "uid" : "c6a1d9e61f0a6304",
+        "name" : "获取订单的商品名称",
+        "source" : "c6a1d9e61f0a6304.txt",
+        "type" : "text/plain",
+        "size" : 148
+      }, {
+        "uid" : "6ae5bcf0c2b03c0c",
+        "name" : "回到我的中心",
+        "source" : "6ae5bcf0c2b03c0c.txt",
+        "type" : "text/plain",
+        "size" : 6
+      }, {
+        "uid" : "9310fa6b31483faa",
+        "name" : "获取购买之后的余额",
+        "source" : "9310fa6b31483faa.txt",
+        "type" : "text/plain",
+        "size" : 16
+      }, {
+        "uid" : "4a94a752aaac4b09",
+        "name" : "断言名称和余额",
+        "source" : "4a94a752aaac4b09.txt",
+        "type" : "text/plain",
+        "size" : 27
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 17,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 17,
+    "stepsCount" : 1,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "I87M244H3CMLOSQ"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "thread",
+    "value" : "5596-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "app自动化项目.scripts.test_buy_normal_good"
+  }, {
+    "name" : "testClass",
+    "value" : "app自动化项目.scripts.test_buy_normal_good"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestCase.test_buy"
+  }, {
+    "name" : "package",
+    "value" : "app自动化项目.scripts.test_buy_normal_good"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "744d468c05279cd3.json",
+  "parameterValues" : [ ]
+}

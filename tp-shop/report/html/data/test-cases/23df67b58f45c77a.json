@@ -1,0 +1,164 @@
+{
+  "uid" : "23df67b58f45c77a",
+  "name" : "TestCase.test_comment",
+  "fullName" : "app自动化项目.scripts.test_comment.TestCase.test_comment",
+  "historyId" : "c421bb55fca52a79bb55988cdedd78b7",
+  "time" : {
+    "start" : 1564988130511,
+    "stop" : 1564988184049,
+    "duration" : 53538
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "评论的步骤",
+      "time" : {
+        "start" : 1564988137059,
+        "stop" : 1564988184049,
+        "duration" : 46990
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "745ee41eede9706",
+        "name" : "点击我的中心",
+        "source" : "745ee41eede9706.txt",
+        "type" : "text/plain",
+        "size" : 6
+      }, {
+        "uid" : "75172ffeb4b7fbd1",
+        "name" : "点击待评价",
+        "source" : "75172ffeb4b7fbd1.txt",
+        "type" : "text/plain",
+        "size" : 6
+      }, {
+        "uid" : "96bee560fe6daca4",
+        "name" : "获取商品的名称",
+        "source" : "96bee560fe6daca4.txt",
+        "type" : "text/plain",
+        "size" : 84
+      }, {
+        "uid" : "e53123f3ff40352d",
+        "name" : "点击晒评价",
+        "source" : "e53123f3ff40352d.txt",
+        "type" : "text/plain",
+        "size" : 6
+      }, {
+        "uid" : "aafd6a7867186c1f",
+        "name" : "输入评价内容",
+        "source" : "aafd6a7867186c1f.txt",
+        "type" : "text/plain",
+        "size" : 22
+      }, {
+        "uid" : "6e586d48d6bcf995",
+        "name" : "点击星星",
+        "source" : "6e586d48d6bcf995.txt",
+        "type" : "text/plain",
+        "size" : 18
+      }, {
+        "uid" : "25a715c6ec7ed2f5",
+        "name" : "点击提交",
+        "source" : "25a715c6ec7ed2f5.txt",
+        "type" : "text/plain",
+        "size" : 6
+      }, {
+        "uid" : "787b4aa9c76210ed",
+        "name" : "点击分类",
+        "source" : "787b4aa9c76210ed.txt",
+        "type" : "text/plain",
+        "size" : 6
+      }, {
+        "uid" : "98daae3d2e832f57",
+        "name" : "输入评论了的商品名",
+        "source" : "98daae3d2e832f57.txt",
+        "type" : "text/plain",
+        "size" : 84
+      }, {
+        "uid" : "7cce62782ed88b6d",
+        "name" : "点击搜索按钮",
+        "source" : "7cce62782ed88b6d.txt",
+        "type" : "text/plain",
+        "size" : 6
+      }, {
+        "uid" : "8cd8a80660d1f845",
+        "name" : "点击此商品",
+        "source" : "8cd8a80660d1f845.txt",
+        "type" : "text/plain",
+        "size" : 6
+      }, {
+        "uid" : "98d70244f4af1d64",
+        "name" : "点击评论",
+        "source" : "98d70244f4af1d64.txt",
+        "type" : "text/plain",
+        "size" : 6
+      }, {
+        "uid" : "3d6ded8eb43274f3",
+        "name" : "断言第一个评价是否为刚输入的评价内容",
+        "source" : "3d6ded8eb43274f3.txt",
+        "type" : "text/plain",
+        "size" : 22
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 13,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 13,
+    "stepsCount" : 1,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "I87M244H3CMLOSQ"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "thread",
+    "value" : "5596-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "app自动化项目.scripts.test_comment"
+  }, {
+    "name" : "testClass",
+    "value" : "app自动化项目.scripts.test_comment"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestCase.test_comment"
+  }, {
+    "name" : "package",
+    "value" : "app自动化项目.scripts.test_comment"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "23df67b58f45c77a.json",
+  "parameterValues" : [ ]
+}
